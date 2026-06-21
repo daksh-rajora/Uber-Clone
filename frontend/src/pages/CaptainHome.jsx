@@ -6,7 +6,7 @@ import ConfirmRidePopUp from '../components/ConfirmRidePopUp'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { SocketContext} from '../context/SocketContext'
-import { CaptainDataContext  } from '../context/CaptainContext'
+import { CaptainDataContext  } from '../context/CaptainDataContext'
 import { useEffect, useContext } from 'react'
 import LiveTracking from '../components/LiveTracking'
 
